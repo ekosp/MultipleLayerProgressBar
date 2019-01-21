@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="redMoodah">#d1180b</color>
+    <color name="redMoodahTua">#CCD1180B</color>
+    <color name="colorWhiteTransparent">#99FFFFFF</color>
+    <color name="warm_grey">#9a9a9a</color>
+
+    <color name="color_quota_1">#9F180F</color>
+    <color name="color_quota_2">#ED2246</color>
+    <color name="color_quota_3">#F14F6C</color>
+
+    <color name="A900">#ff3d00</color>
+    <color name="A700">#d50000</color>
+    <color name="A400">#ff1744</color>
+    <color name="A200">#ff5252</color>
+    <color name="A100">#ff8a80</color>
+
+    <color name="RED_400">#ef5350</color>
+    <color name="RED_500">#f44336</color>
+    <color name="RED_600">#e53935</color>
+    <color name="RED_700">#d32f2f</color>
+    <color name="RED_800">#c62828</color>
+    <color name="RED_900">#b71c1c</color>
+
+</resources>
